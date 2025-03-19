@@ -1,4 +1,4 @@
-# Django-web-page
+# Django web page
 O **Django** é um framework web de alto nível para **Python** que permite o desenvolvimento rápido e seguro de aplicações web. Ele é utilizado para criar sites dinâmicos, APIs e sistemas complexos, como redes sociais, plataformas de e-commerce e sistemas de gerenciamento de conteúdo.
 
 ### 📌 **Principais características do Django:**
